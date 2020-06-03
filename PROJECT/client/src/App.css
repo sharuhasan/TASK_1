@@ -1,0 +1,48 @@
+body{
+  background-image: url(22507322-1576778921713.png);
+  background-position: right;
+  margin:0px;
+  border:0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+}
+
+form button{
+  color:white;
+  background:rgb(6, 122, 138);
+  padding:2px;
+  box-shadow: 1px 1px 1px #34495e;
+  margin-top: 50px;
+  width:200px;
+  height:30px;
+}
+
+form input{
+  padding: 10px 2px;
+  width:300px
+}
+
+form select{
+  padding: 12px 2px;
+  background-color:whitesmoke;
+  width:308px;
+}
+
+section{
+  width: 300px;
+  height: 0px;
+  padding: 40px;
+  margin-left: 70%;
+  margin-top: 0px;
+  text-align: center;
+  opacity: 0.8;
+}
+
+::placeholder{
+  color:black;
+  opacity:1;
+
+}
+ 
